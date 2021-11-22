@@ -78,4 +78,4 @@ Power BI Pro per user subscriptions are available for self-service purchase, as 
 
 
 ## Credits
-Ineuron -- his project wouldn't have been possible without the data of ineuron tool. It saved my enormous amount of time for finding the perfect data. 
+Ineuron -- This project wouldn't have been possible without the data of ineuron . It saved my enormous amount of time for finding the perfect data. 
