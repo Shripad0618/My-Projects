@@ -3,7 +3,7 @@
 
 ## My Introduction
 I have a total of 3 years of work experience. I have been employed by Amazon, FLipkart, TIME Inc.
-I know skills such as Power BI, MSSQL, Python, Statistics, Advance Excel. I am looking for analyst related roles
+I know skills such as Power BI, MSSQL, Python, Statistics, Advance Excel. I am looking for analyst related roles. For more information please find my resume below
 
 ## My projects
 
