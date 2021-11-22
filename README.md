@@ -12,7 +12,9 @@ You can find my projects in the below link
 
 🔗 Links 
 
- 
+ [![portfolio](https://img.shields.io/badge/POWER_BI_Product_and_sales_dashboard-4A154B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Shripad0618/My-Projects/tree/main/Sales%20dashboard)
+
+    This is a PowerBI project of analysis of Products and sales of an Ecommerce Company
  
 [![portfolio](https://img.shields.io/badge/Walmart_store_sale_Analysis-D14836?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Shripad0618/My-Projects/tree/main/1577429980_walmart_store_sales) 
 
@@ -20,9 +22,7 @@ You can find my projects in the below link
 [![portfolio](https://img.shields.io/badge/Real_time_stock_extraction-8B89CC?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Shripad0618/My-Projects/tree/main/Real%20Time%20Stock%20Data)
 
     This project is a real time stock extraction from webull.com 
-[![portfolio](https://img.shields.io/badge/POWER_BI_Product_and_sales_dashboard-4A154B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Shripad0618/My-Projects/tree/main/Sales%20dashboard)
 
-    This is a PowerBI project of analysis of Products and sales of an Ecommerce Company
 [![portfolio](https://img.shields.io/badge/Woman_Entrepreneurship_Index-1877F2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Shripad0618/My-Projects/tree/main/Woman%20Entrepreneurship%20Index)
     
     
