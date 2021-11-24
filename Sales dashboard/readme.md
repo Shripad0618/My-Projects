@@ -54,7 +54,7 @@ The dashboard is deployed on powerbi with an auto scheduler. So that when data i
 ## 🔗 Links
 [![powerbi](https://img.shields.io/badge/my_powerbi_link-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://app.powerbi.com/reportEmbed?reportId=04420b19-1188-4efa-9aea-6c115bc4cbe5&autoAuth=true&ctid=393404aa-742a-4f6c-8d67-cc58f80ec147&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWluZGlhLWNlbnRyYWwtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9)
 
-I am sorry if there isn't any access. This is because of security standards in Power BI service
+I am sorry if there isn't any access. This is because of security standards in Power BI service. You can see the pdf version of it in the above present attachment
 
 
 ## Technologies Used
