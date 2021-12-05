@@ -16,7 +16,7 @@ You can find my projects in the below link
 
     This is a PowerBI project of analysis of Products and sales of an Ecommerce Company. This is a documentation and has .pbix file
 
- [![portfolio](https://img.shields.io/badge/My_sales_dashboard_project-5C2D9?style=for-the-badge&logo=ko-fi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiOGQ0Yjc0MzktNDQ2ZS00YzAwLWJjMmItMjA5NjQxNzE3OTI4IiwidCI6IjM5MzQwNGFhLTc0MmEtNGY2Yy04ZDY3LWNjNThmODBlYzE0NyJ9)
+ [![portfolio](https://img.shields.io/badge/My_sales_dashboard_project-5C2D9?style=for-the-badge&logo=ko-fi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiOGQ0Yjc0MzktNDQ2ZS00YzAwLWJjMmItMjA5NjQxNzE3OTI4IiwidCI6IjM5MzQwNGFhLTc0MmEtNGY2Yy04ZDY3LWNjNThmODBlYzE0NyJ9&pageName=ReportSection)
      
      Click on the above link to view my project dashboard maed in PowerBI
  
