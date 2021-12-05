@@ -14,10 +14,11 @@ You can find my projects in the below link
 
  [![portfolio](https://img.shields.io/badge/POWER_BI_Product_and_sales_dashboard-4A154B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Shripad0618/My-Projects/tree/main/Sales%20dashboard)
 
-    This is a PowerBI project of analysis of Products and sales of an Ecommerce Company
+    This is a PowerBI project of analysis of Products and sales of an Ecommerce Company. This is a documentation and has .pbix file
 
  [![portfolio](https://img.shields.io/badge/My_sales_dashboard_project-5C2D9?style=for-the-badge&logo=ko-fi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiOGQ0Yjc0MzktNDQ2ZS00YzAwLWJjMmItMjA5NjQxNzE3OTI4IiwidCI6IjM5MzQwNGFhLTc0MmEtNGY2Yy04ZDY3LWNjNThmODBlYzE0NyJ9)
-Click on the above link to view my project on PowerBI
+     
+     Click on the above link to view my project dashboard maed in PowerBI
  
 [![portfolio](https://img.shields.io/badge/Walmart_store_sale_Analysis-D14836?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Shripad0618/My-Projects/tree/main/1577429980_walmart_store_sales) 
 
