@@ -18,7 +18,7 @@ You can find my projects in the below link
 
  [![portfolio](https://img.shields.io/badge/My_sales_dashboard_project-5C2D9?style=for-the-badge&logo=ko-fi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiOGQ0Yjc0MzktNDQ2ZS00YzAwLWJjMmItMjA5NjQxNzE3OTI4IiwidCI6IjM5MzQwNGFhLTc0MmEtNGY2Yy04ZDY3LWNjNThmODBlYzE0NyJ9&pageName=ReportSection)
      
-     Click on the above link to view my project dashboard maed in PowerBI
+     Click on the above link to view my project dashboard made in PowerBI. Refer the documentation to understand about it
  
 [![portfolio](https://img.shields.io/badge/Walmart_store_sale_Analysis-D14836?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Shripad0618/My-Projects/tree/main/1577429980_walmart_store_sales) 
 
